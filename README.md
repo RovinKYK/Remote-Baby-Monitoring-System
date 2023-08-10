@@ -1,5 +1,7 @@
 # Remote Baby Monitoring System
 
+![Baby Monitoring System](BabyMonitoring.jpg)
+
 ## Project Description 
 
 In today's fast-paced world, parents often struggle to effectively monitor and care for their babies due to demanding work schedules. While baby monitoring systems equipped with cameras exist, a comprehensive solution that not only monitors the baby but also identifies their emotions is lacking. This project aims to address this gap by employing machine learning techniques to recognize the emotional cues within a baby's cries and by offering remote monitoring and interaction features through a dedicated mobile app.
