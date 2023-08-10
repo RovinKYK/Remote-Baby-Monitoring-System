@@ -24,10 +24,10 @@ In today's world parents strugle in monitoring and properly caring their babies 
 4. Blynk library to create the mobile app
 
 ## Credits
-1. donateacry-corpus dataset by gveres - https://github.com/gveres/donateacry-corpus
-2. Audio classification using Tensorflow - https://www.tensorflow.org/lite/examples/audio_classification/overview
-3. Audio feature extraction - https://devopedia.org/audio-feature-extraction#:~:text=Audio%20feature%20extraction%20is%20a,converting%20digital%20and%20analog%20signals.
-4. Deep learning to classify baby crying - https://towardsdatascience.com/deep-learning-for-classifying-audio-of-babies-crying-9a29e057f7ca
+1. donateacry-corpus dataset by gveres- https://github.com/gveres/donateacry-corpus
+2. Audio classification using Tensorflow- https://www.tensorflow.org/lite/examples/audio_classification/overview
+3. Audio feature extraction- https://devopedia.org/audio-feature-extraction#:~:text=Audio%20feature%20extraction%20is%20a,converting%20digital%20and%20analog%20signals.
+4. Deep learning to classify baby crying- https://towardsdatascience.com/deep-learning-for-classifying-audio-of-babies-crying-9a29e057f7ca
 
 ## License
 [GNU GPLv3](https://choosealicense.com/licenses/gpl-3.0/)
