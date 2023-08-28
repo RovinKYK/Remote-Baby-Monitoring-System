@@ -24,10 +24,14 @@ In today's fast-paced world, parents often struggle to effectively monitor and c
 
 ## Technologies and Hardware Utilized
 
-1. **ESP-32 Development Board**: The core hardware platform for the system.
-2. **ESP Camera Module**: Integrates camera functionality into the system.
-3. **TensorFlow Lite**: Utilized for training the emotion recognition model.
-4. **Blynk Library**: Facilitates the creation of the mobile app for remote interaction.
+1. **ESP Camera Module**: Integrates camera functionality into the system.
+2. **TensorFlow Lite**: Utilized for training the emotion recognition model.
+3. **Android Studio**: Facilitates creation of mobile app.
+4. **I2S protocol**: Used for communication of audio files.
+5. **INM5441 Microphone**: Microphone with inbuilt amplifer and I2S coomunication interface.
+6. **PAMPAM8403 Amplifier**
+7. **Keyes Active Speaker**
+8. **PIR Sensor**
 
 ## Credits
 
