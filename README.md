@@ -42,7 +42,3 @@ In today's fast-paced world, parents often struggle to effectively monitor and c
 3. **Audio Classification using TensorFlow**: TensorFlow's guide on audio classification - [Link](https://www.tensorflow.org/lite/examples/audio_classification/overview)
 4. **Audio Feature Extraction**: Information on audio feature extraction - [Link](https://devopedia.org/audio-feature-extraction#:~:text=Audio%20feature%20extraction%20is%20a,converting%20digital%20and%20analog%20signals.)
 5. **Deep Learning for Baby Crying Classification**: An informative article on deep learning to classify baby crying sounds - [Link](https://towardsdatascience.com/deep-learning-for-classifying-audio-of-babies-crying-9a29e057f7ca)
-
-## License
-
-This project is licensed under the [GNU GPLv3](https://choosealicense.com/licenses/gpl-3.0/).
